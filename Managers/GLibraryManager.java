@@ -1,6 +1,6 @@
-package GTools.Managers;
+package gtools.Managers;
 
-import GTools.GLibrary;
+import gtools.GLibrary;
 
 import java.io.File;
 import java.util.Collection;

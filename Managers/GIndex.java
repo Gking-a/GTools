@@ -1,4 +1,4 @@
-package GTools.Managers;
+package gtools.Managers;
 
 public class GIndex {
     public GIndex(Object o) {

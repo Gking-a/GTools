@@ -1,4 +1,4 @@
-package GTools.Managers;
+package gtools.Managers;
 import java.util.HashMap;
 public class GHolder<Index,Content> implements GManageable<Index,Content>
 {

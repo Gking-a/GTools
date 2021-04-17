@@ -1,4 +1,4 @@
-package GTools.Managers;
+package gtools.Managers;
 public class GToolManager<I,C> implements GManageable<I,GManageable>
 {
     private GToolManager(){}

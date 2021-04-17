@@ -1,4 +1,4 @@
-package GTools;
+package gtools;
 
 import java.io.BufferedReader;
 import java.io.IOException;

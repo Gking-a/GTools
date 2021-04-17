@@ -1,4 +1,4 @@
-package GTools.Managers;
+package gtools.Managers;
 public interface GManageable<Index,Content>
 {
     public Content get(Index index);
